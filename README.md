@@ -1,2 +1,14 @@
-# gnomies-io
-gnomies.io — lime-green phoenix Clippy reborn. Closest-vehicle courier (Cybercab Austin + Waymo Austin/LA) for documents &amp; ≤10 lb parcels. Item-drop desk. People are not cargo.
+# gnomies.io
+
+Lime-green phoenix Clippy reborn.
+
+Closest-vehicle wins (Cybercab Austin + Waymo Austin/LA).
+
+Item-drop desk for documents and small parcels ≤10 lb.
+
+People are not a cargo class.
+
+## Stack
+Next.js + Tailwind. Deployed on Vercel.
+
+A (Courier Matching) + B (Phoenix Desktop) = C.
